@@ -7,7 +7,6 @@
 <div>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrof3&show_icons=true&theme=tokyonight"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrof3&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrof3"/>
 </div>
 <div>
   <h3>Let's get connected:</h3>
