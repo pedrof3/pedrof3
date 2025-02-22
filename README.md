@@ -16,5 +16,5 @@
 </div>
 <div>
   <h3>Main technologies:</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,go,postgresql,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=node,react,typescript,postgresql,git,linux"/>
 </div>
