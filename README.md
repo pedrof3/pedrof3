@@ -11,5 +11,5 @@
 </div>
 <div>
   <h3>Main technologies:</h3>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,git,linux"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgresql,redis,git,linux,postman"/>
 </div>
